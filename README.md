@@ -1,2 +1,3 @@
 # IRF-Simulation-Old-Capstone-Project-
 A copy/re-upload of my undergraduate research/capstone project.
+A copy of my undergraduate research/capstone project. While containing old code not representative of my current skillset, this project was developed using self-taught skills and was extensive, lasting six months. In it, I developed an educational online simulation, similar to the University of Colorado's PhET online simulations. The simulation uses cars moving down a road at different speeds, modelled with proper equations of motion, as a means of teaching inertial reference frames to introductory physics students. 
