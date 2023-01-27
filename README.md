@@ -1,3 +1,4 @@
-# IRF-Simulation-Old-Capstone-Project-
-A copy/re-upload of my undergraduate research/capstone project.
-A copy of my undergraduate research/capstone project. While containing old code not representative of my current skillset, this project was developed using self-taught skills and was extensive, lasting six months. In it, I developed an educational online simulation, similar to the University of Colorado's PhET online simulations. The simulation uses a car moving down a road at different speeds dropping a box from its back, modelled with proper equations of motion, as a means of teaching inertial reference frames to introductory physics students. 
+# nerdydandaman.github.io
+This page hosts the files and scripts for my undergraduate research project, in which I designed a browser-based educational simulation to teach about inertial reference frames.
+I have included the .jpg images, index files, CSS code files, and SVG images that allow the simuation to run off of GITHUB's servers. 
+The simulation can be used on its own, but it is meant to be used by students along with an included student worksheet. Also included is a teacher's guide to help instructors plan lessons using this activity.
